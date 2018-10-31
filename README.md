@@ -2,7 +2,7 @@
 
 # TI CC254X
 
-### 简介
+## 简介
 
 TI低成本BLE SOC
 
@@ -10,12 +10,24 @@ TI低成本BLE SOC
 
 ---
 
-### 组成
+## 组成
 
-- docs
+### docs
 
 包括芯片手册资料等
 
+### components
+
+包括TI的相关协议栈
+
+
+### user
+
+IAR 工程文件
+
+./user/MPU6050/APP/CC2541DB/
+
+./user/MPU6050/APP/CC2541DB/
 
 
 ---
