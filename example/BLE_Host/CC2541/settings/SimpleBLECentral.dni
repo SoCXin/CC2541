@@ -1,0 +1,39 @@
+[DebugChecksum]
+Checksum=1391065434
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "F:\BLE\BLE高级实践17  一主三从\BLE-CC254x-1.3.2_1Central_3Peripheral\Components\hal\target\CC2540EB\hal_aes.c" ""
+A1=_ "F:\BLE\BLE高级实践17  一主三从\BLE-CC254x-1.3.2_1Central_3Peripheral\Components\osal\common\OSAL_PwrMgr.c" ""
+A2=_ "F:\BLE\BLE高级实践17  一主三从\BLE-CC254x-1.3.2_1Central_3Peripheral\Projects\ble\Profiles\Roles\gap.c" ""
+A3=_ "F:\BLE\BLE高级实践17  一主三从\BLE-CC254x-1.3.2_1Central_3Peripheral\Projects\ble\SimpleBLECentral\Source\OSAL_simpleBLECentral.c" ""
+A4=_ "F:\BLE\BLE高级实践17  一主三从\BLE-CC254x-1.3.2_1Central_3Peripheral\Projects\ble\SimpleBLECentral\Source\simpleBLECentral_Main.c" ""
+Count=5
+SuppressDialog=0

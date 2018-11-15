@@ -1,12 +1,10 @@
-﻿[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
-
-# TI CC254X
-
-## 简介
+﻿# [CC2541](https://github.com/mcuyun/CC2541) 
 
 TI低成本BLE SOC
 
-关于8051工程：https://github.com/mcuyun/8051.git
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
 
 ---
 
@@ -14,24 +12,13 @@ TI低成本BLE SOC
 
 ### docs
 
-包括芯片手册资料等
+包括CC2541芯片手册资料
 
-### components
-
-包括TI的相关协议栈
-
-
-### user
-
-IAR 工程文件
-
-./user/MPU6050/APP/CC2541DB/
-
-./user/MPU6050/APP/CC2541DB/
 
 
 ---
 
-### 说明
+###  www.mcuyun.com   |    qitas@qitas.cn
+
 
 
