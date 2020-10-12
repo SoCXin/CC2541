@@ -1,0 +1,12 @@
+*.dep
+*.ewt
+*.ewd
+*.log
+out/
+Debug/
+settings/
+CC2540EM/
+CC2541EM/
+*.pyc
+.pio/
+.vscode/
