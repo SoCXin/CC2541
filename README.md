@@ -1,16 +1,18 @@
-﻿# [CC2541](https://github.com/sochub/CC2541) 
+﻿# [CC2541](https://github.com/SoCXin/CC2541)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor) ：[TI](https://github.com/SoCXin/TI) 
-#### [Core](https://github.com/SoCXin/8051) ：[E8051](https://github.com/SoCXin/8051) 
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[TI](https://github.com/SoCXin/TI)
+#### [Core](https://github.com/SoCXin/8051) ：[MCS51](https://github.com/SoCXin/8051)
 #### [Level](https://github.com/SoCXin/Level) ：16MHz
 
 ## [CC2541简介](https://github.com/SoCXin/CC2541/wiki)
 
 [CC2541](http://www.ti.com.cn/product/cn/CC2541) 是TI低成本8051 BLE 4.0 SoC，集成2.4GHz 符合低能耗规范和私有的 RF 片载系统，最高0dBm的可编程输出功率，出色的接收器灵敏度（1 Mbps 时为 –94 dBm）。
 
-与 CC2540 相比，CC2541 提供更低 RF 流耗，没有CC2540所具有的USB接口，并在 TX 模式中提供较低的最大输出功率，CC2541 还增加了1个HW I2C接口。CC2541与CC2540在 6mm x 6mm 方形扁平无引脚 (QFN)40 封装内引脚兼容。 
+与 CC2540 相比，CC2541 提供更低 RF 流耗，没有CC2540所具有的USB接口，并在 TX 模式中提供较低的最大输出功率，CC2541 还增加了1个HW I2C接口。CC2541与CC2540在 6mm x 6mm 方形扁平无引脚 (QFN)40 封装内引脚兼容。
+
+CC2541具有 128kB 和 256kB 闪存两个版本： CC2541F128/F256
 
 - 低功率
 	* 工作模式 RX 低至： 17.9 mA
@@ -38,24 +40,14 @@
 	* HW I2C 接口
 	* 集成的高性能比较器
 
-CC2541具有 128kB 和 256kB 闪存两个版本： CC2541F128/F256
-
 
 ### [资源收录](https://github.com/SoCXin)
 
 * [文档](docs/)
 * [资源](src/)
 
-### [关联资源](https://github.com/SoCXin)
-
-* [IAR 8051](https://www.iar.com/iar-embedded-workbench/#!?architecture=8051) 
-
-### [开源项目](https://github.com/SoCXin)
-
-
-
 ### [选型建议](https://github.com/SoCXin)
 
-[CC2541](https://github.com/SoCXin/CC2541)同系列[CC2540](https://github.com/SoCXin/CC2540) 具有USB功能（没有IIC），相似产品[CC2530](https://github.com/sochub/CC2530)支持ZigBee，友商竞争产品[nRF51822](https://github.com/sochub/nRF51822)，相似产品还有[nRF24LE1](https://github.com/SoCXin/nRF24LE1) 
+[CC2541](https://github.com/SoCXin/CC2541)同系列[CC2540](https://github.com/SoCXin/CC2540) 具有USB功能（没有IIC），相似产品[CC2530](https://github.com/SoCXin/CC2530)支持ZigBee，友商竞争产品[nRF51822](https://github.com/SoCXin/nRF51822)，相似产品还有[nRF24LE1](https://github.com/SoCXin/nRF24LE1)
 
-###  [SoC芯平台](http://SoC.Xin) 
+###  [SoC芯平台](http://www.SoC.Xin)
