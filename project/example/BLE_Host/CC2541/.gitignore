@@ -5,10 +5,8 @@
 out/
 Debug/
 settings/
-CC2540EM/
-CC2541EM/
-CC2541DK*/
-CC2540DK*/
+CC2540*/
+CC2541*/
 *.pyc
 .pio/
 .vscode/
