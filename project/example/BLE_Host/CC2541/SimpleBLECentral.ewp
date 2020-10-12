@@ -2,7 +2,7 @@
 <project>
     <fileVersion>3</fileVersion>
     <configuration>
-        <name>CC2541DK-MINI Keyfob</name>
+        <name>CC2540DK-MINI</name>
         <toolchain>
             <name>8051</name>
         </toolchain>
@@ -64,7 +64,7 @@
                 <option>
                     <name>Workseg Size</name>
                     <version>0</version>
-                    <state>8</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>Constant Placement</name>
@@ -113,15 +113,15 @@
                 </option>
                 <option>
                     <name>ExePath</name>
-                    <state>CC2541DK-MINI Keyfob\Exe</state>
+                    <state>CC2540DK-MINI\Exe</state>
                 </option>
                 <option>
                     <name>ObjPath</name>
-                    <state>CC2541DK-MINI Keyfob\Obj</state>
+                    <state>CC2540DK-MINI\Obj</state>
                 </option>
                 <option>
                     <name>ListPath</name>
-                    <state>CC2541DK-MINI Keyfob\List</state>
+                    <state>CC2540DK-MINI\List</state>
                 </option>
                 <option>
                     <name>GOutputBinary</name>
@@ -2427,14 +2427,14 @@
         <file>
             <name>$PROJ_DIR$\..\..\common\npi\npi_np\npi_spi.c</name>
             <excluded>
-                <configuration>CC2541DK-MINI Keyfob</configuration>
+                <configuration>CC2540DK-MINI</configuration>
                 <configuration>CC2541EM</configuration>
             </excluded>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\common\npi\npi_np\npi_uart.c</name>
             <excluded>
-                <configuration>CC2541DK-MINI Keyfob</configuration>
+                <configuration>CC2540DK-MINI</configuration>
                 <configuration>CC2541EM</configuration>
             </excluded>
         </file>

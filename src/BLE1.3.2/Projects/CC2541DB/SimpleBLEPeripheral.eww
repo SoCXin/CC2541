@@ -13,7 +13,7 @@
       </member>
       <member>
         <project>SimpleBLEPeripheral</project>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
       </member>
       <member>
         <project>SimpleBLEPeripheral</project>

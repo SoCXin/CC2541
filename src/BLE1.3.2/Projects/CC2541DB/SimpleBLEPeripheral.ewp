@@ -3,7 +3,7 @@
 <project>
   <fileVersion>2</fileVersion>
   <configuration>
-    <name>CC2541DK-MINI Keyfob</name>
+    <name>CC2540DK-MINI</name>
     <toolchain>
       <name>8051</name>
     </toolchain>
@@ -126,15 +126,15 @@
         </option>
         <option>
           <name>ExePath</name>
-          <state>CC2541DK-MINI Keyfob\Exe</state>
+          <state>CC2540DK-MINI\Exe</state>
         </option>
         <option>
           <name>ObjPath</name>
-          <state>CC2541DK-MINI Keyfob\Obj</state>
+          <state>CC2540DK-MINI\Obj</state>
         </option>
         <option>
           <name>ListPath</name>
-          <state>CC2541DK-MINI Keyfob\List</state>
+          <state>CC2540DK-MINI\List</state>
         </option>
         <option>
           <name>GOutputBinary</name>
@@ -6646,21 +6646,21 @@
     <file>
       <name>$PROJ_DIR$\..\..\Profiles\OAD\oad.h</name>
       <excluded>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
         <configuration>CC2541</configuration>
       </excluded>
     </file>
     <file>
       <name>$PROJ_DIR$\..\..\Profiles\OAD\oad_target.c</name>
       <excluded>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
         <configuration>CC2541</configuration>
       </excluded>
     </file>
     <file>
       <name>$PROJ_DIR$\..\..\Profiles\OAD\oad_target.h</name>
       <excluded>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
         <configuration>CC2541</configuration>
       </excluded>
     </file>
@@ -6673,7 +6673,7 @@
     <file>
       <name>$PROJ_DIR$\..\..\Profiles\Roles\peripheralBroadcaster.c</name>
       <excluded>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
         <configuration>CC2541</configuration>
         <configuration>CC2541-OAD-ImgA</configuration>
         <configuration>CC2541-OAD-ImgB</configuration>
@@ -6684,7 +6684,7 @@
     <file>
       <name>$PROJ_DIR$\..\..\Profiles\Roles\peripheralBroadcaster.h</name>
       <excluded>
-        <configuration>CC2541DK-MINI Keyfob</configuration>
+        <configuration>CC2540DK-MINI</configuration>
         <configuration>CC2541</configuration>
         <configuration>CC2541-OAD-ImgA</configuration>
         <configuration>CC2541-OAD-ImgB</configuration>
